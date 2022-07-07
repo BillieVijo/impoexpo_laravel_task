@@ -12,9 +12,13 @@
 
         <!-- Styles -->
         <link rel="stylesheet" href="{{ asset('css/app.css') }}">
+        <link rel="stylesheet" href="{{ asset('css/bootstrap/css/bootstrap.css') }}">
+        {{-- <link rel="stylesheet" href="{{ asset('css/app.css') }}"> --}}
 
         <!-- Scripts -->
         <script src="{{ asset('js/app.js') }}" defer></script>
+        <script src="{{ asset('css/bootstrap/js/bootstrap.js') }}" defer></script>
+
     </head>
     <body class="font-sans antialiased">
         <div class="min-h-screen bg-gray-100">
