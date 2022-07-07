@@ -38,7 +38,7 @@
 
 <code>php artisan key:generate</code>
 <br>
-<5>Running the project</h5>
+<h5>Running the project</h5>
 <p>Now you can run the project on your browser and register for user and then login to enjoy creating your shortened url's</p>
 
 
